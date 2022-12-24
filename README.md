@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. 💬 Commented on [#1111](https://github.com/ossu/computer-science/issues/1111#issuecomment-1363966547) in [ossu/computer-science](https://github.com/ossu/computer-science)
-2. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-3. ⬆️ Pushed 3 commit(s) to [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-4. 💬 Commented on [#1111](https://github.com/ossu/computer-science/issues/1111#issuecomment-1358555292) in [ossu/computer-science](https://github.com/ossu/computer-science)
-5. 📔 Created new repository [AbdesamedBendjeddou/AbdesamedBendjeddou](https://github.com/AbdesamedBendjeddou/AbdesamedBendjeddou)
+1. 💬 Commented on [#1111](https://github.com/ossu/computer-science/issues/1111#issuecomment-1364490566) in [ossu/computer-science](https://github.com/ossu/computer-science)
+2. 💬 Commented on [#1111](https://github.com/ossu/computer-science/issues/1111#issuecomment-1363966547) in [ossu/computer-science](https://github.com/ossu/computer-science)
+3. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+4. ⬆️ Pushed 3 commit(s) to [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+5. 💬 Commented on [#1111](https://github.com/ossu/computer-science/issues/1111#issuecomment-1358555292) in [ossu/computer-science](https://github.com/ossu/computer-science)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
