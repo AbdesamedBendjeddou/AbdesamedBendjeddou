@@ -42,10 +42,10 @@
 
 <!--RECENT_ACTIVITY:start--> 
 1. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo)
-2. 🔱 Forked [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo) from [not-matthias/apollo](https://github.com/not-matthias/apollo)
-3. ⭐ Starred [direnv/direnv](https://github.com/direnv/direnv)
-4. ⭐ Starred [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy)
-5. ⭐ Starred [flosse/rust-os-comparison](https://github.com/flosse/rust-os-comparison)
+2. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo)
+3. 🔱 Forked [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo) from [not-matthias/apollo](https://github.com/not-matthias/apollo)
+4. ⭐ Starred [direnv/direnv](https://github.com/direnv/direnv)
+5. ⭐ Starred [ironcamel/Graph-Easy](https://github.com/ironcamel/Graph-Easy)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
