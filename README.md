@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo)
+1. ⭐ Starred [AngleNet/rustub](https://github.com/AngleNet/rustub)
 2. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo)
 3. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo)
-4. 🔱 Forked [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo) from [not-matthias/apollo](https://github.com/not-matthias/apollo)
-5. ⭐ Starred [direnv/direnv](https://github.com/direnv/direnv)
+4. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo)
+5. 🔱 Forked [AbdesamedBendjeddou/apollo](https://github.com/AbdesamedBendjeddou/apollo) from [not-matthias/apollo](https://github.com/not-matthias/apollo)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
