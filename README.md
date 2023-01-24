@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [azzamsa/bilal](https://github.com/azzamsa/bilal)
-2. ⭐ Starred [dabreegster/route_snapper](https://github.com/dabreegster/route_snapper)
-3. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-4. ⭐ Starred [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw)
-5. ⭐ Starred [AngleNet/rustub](https://github.com/AngleNet/rustub)
+1. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+2. ⭐ Starred [azzamsa/bilal](https://github.com/azzamsa/bilal)
+3. ⭐ Starred [dabreegster/route_snapper](https://github.com/dabreegster/route_snapper)
+4. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+5. ⭐ Starred [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
