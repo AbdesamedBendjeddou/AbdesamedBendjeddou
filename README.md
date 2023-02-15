@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-2. ⭐ Starred [azzamsa/bilal](https://github.com/azzamsa/bilal)
-3. ⭐ Starred [dabreegster/route_snapper](https://github.com/dabreegster/route_snapper)
-4. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-5. ⭐ Starred [xxyzz/ostep-hw](https://github.com/xxyzz/ostep-hw)
+1. ⭐ Starred [devplaybooks/rs_blank](https://github.com/devplaybooks/rs_blank)
+2. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+3. ⭐ Starred [azzamsa/bilal](https://github.com/azzamsa/bilal)
+4. ⭐ Starred [dabreegster/route_snapper](https://github.com/dabreegster/route_snapper)
+5. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
