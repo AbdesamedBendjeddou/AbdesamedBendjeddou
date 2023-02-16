@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [devplaybooks/rs_blank](https://github.com/devplaybooks/rs_blank)
-2. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
-3. ⭐ Starred [azzamsa/bilal](https://github.com/azzamsa/bilal)
-4. ⭐ Starred [dabreegster/route_snapper](https://github.com/dabreegster/route_snapper)
-5. ⭐ Starred [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+1. ❗️ Opened issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. ⭐ Starred [devplaybooks/rs_blank](https://github.com/devplaybooks/rs_blank)
+3. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+4. ⭐ Starred [azzamsa/bilal](https://github.com/azzamsa/bilal)
+5. ⭐ Starred [dabreegster/route_snapper](https://github.com/dabreegster/route_snapper)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
