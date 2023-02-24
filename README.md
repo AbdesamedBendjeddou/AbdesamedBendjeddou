@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ✔️ Closed issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 💬 Commented on [#174600](https://github.com/microsoft/vscode/issues/174600#issuecomment-1433874726) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ⭐ Starred [devplaybooks/rs_blank](https://github.com/devplaybooks/rs_blank)
-5. ⭐ Starred [rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+1. ⭐ Starred [beaunus/stanford-algs](https://github.com/beaunus/stanford-algs)
+2. ✔️ Closed issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 💬 Commented on [#174600](https://github.com/microsoft/vscode/issues/174600#issuecomment-1433874726) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ⭐ Starred [devplaybooks/rs_blank](https://github.com/devplaybooks/rs_blank)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
