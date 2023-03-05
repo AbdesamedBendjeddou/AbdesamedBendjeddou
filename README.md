@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ⭐ Starred [beaunus/stanford-algs](https://github.com/beaunus/stanford-algs)
-2. ✔️ Closed issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 💬 Commented on [#174600](https://github.com/microsoft/vscode/issues/174600#issuecomment-1433874726) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ⭐ Starred [devplaybooks/rs_blank](https://github.com/devplaybooks/rs_blank)
+1. ❌ Closed PR [#5](https://github.com/AbdesamedBendjeddou/Rusty-CS/pull/5) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+2. ✔️ Closed issue [#4](https://github.com/AbdesamedBendjeddou/Rusty-CS/issues/4) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+3. ⭐ Starred [beaunus/stanford-algs](https://github.com/beaunus/stanford-algs)
+4. ✔️ Closed issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 💬 Commented on [#174600](https://github.com/microsoft/vscode/issues/174600#issuecomment-1433874726) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
