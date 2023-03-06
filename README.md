@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. ❌ Closed PR [#5](https://github.com/AbdesamedBendjeddou/Rusty-CS/pull/5) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-2. ✔️ Closed issue [#4](https://github.com/AbdesamedBendjeddou/Rusty-CS/issues/4) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-3. ⭐ Starred [beaunus/stanford-algs](https://github.com/beaunus/stanford-algs)
-4. ✔️ Closed issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 💬 Commented on [#174600](https://github.com/microsoft/vscode/issues/174600#issuecomment-1433874726) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ⭐ Starred [tomekpiotrowski/lets_expect](https://github.com/tomekpiotrowski/lets_expect)
+2. ❌ Closed PR [#5](https://github.com/AbdesamedBendjeddou/Rusty-CS/pull/5) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+3. ✔️ Closed issue [#4](https://github.com/AbdesamedBendjeddou/Rusty-CS/issues/4) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+4. ⭐ Starred [beaunus/stanford-algs](https://github.com/beaunus/stanford-algs)
+5. ✔️ Closed issue [#174600](https://github.com/microsoft/vscode/issues/174600) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
