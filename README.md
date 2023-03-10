@@ -41,11 +41,11 @@
 ---
 
 <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [AbdesamedBendjeddou/dotfiles](https://github.com/AbdesamedBendjeddou/dotfiles)
-2. ⭐ Starred [tomekpiotrowski/lets_expect](https://github.com/tomekpiotrowski/lets_expect)
-3. ❌ Closed PR [#5](https://github.com/AbdesamedBendjeddou/Rusty-CS/pull/5) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-4. ✔️ Closed issue [#4](https://github.com/AbdesamedBendjeddou/Rusty-CS/issues/4) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-5. ⭐ Starred [beaunus/stanford-algs](https://github.com/beaunus/stanford-algs)
+1. ⬆️ Pushed 1 commit(s) to [AbdesamedBendjeddou/dotfiles](https://github.com/AbdesamedBendjeddou/dotfiles)
+2. 📔 Created new repository [AbdesamedBendjeddou/dotfiles](https://github.com/AbdesamedBendjeddou/dotfiles)
+3. ⭐ Starred [tomekpiotrowski/lets_expect](https://github.com/tomekpiotrowski/lets_expect)
+4. ❌ Closed PR [#5](https://github.com/AbdesamedBendjeddou/Rusty-CS/pull/5) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+5. ✔️ Closed issue [#4](https://github.com/AbdesamedBendjeddou/Rusty-CS/issues/4) in [AbdesamedBendjeddou/Rusty-CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 <!--RECENT_ACTIVITY:end-->
 
 ### 👀 Stats
